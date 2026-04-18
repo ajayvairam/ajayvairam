@@ -223,24 +223,6 @@ An enterprise-grade LMS with secure multi-role access — built during my intern
 
 
 
-<!-- ── SNAKE ANIMATION ───────────────────────────────────────────────────
-     To enable this:
-     1. Go to your GitHub repo named exactly: ajayvairam (your username)
-     2. Create .github/workflows/snake.yml with the standard snake action
-     3. The generated SVG will be at the path below once the action runs.
-     Replace the img src with your actual generated snake SVG URL.
-     ─────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajayvairam/ajayvairam/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajayvairam/ajayvairam/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ajayvairam/ajayvairam/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
 ---
 
 ## 🎯 Currently Focused On
